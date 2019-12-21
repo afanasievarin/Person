@@ -32,7 +32,7 @@ var densityData = {
     'rgba(210, 99, 132, 1)',
     'rgba(240, 99, 132, 1)'
   ],
-  borderWidth: 2,
+  borderWidth: 1,
   hoverBorderWidth: 0
 };
 
